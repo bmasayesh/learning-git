@@ -1,1 +1,1 @@
-func main() logo {}
+func main() {}
